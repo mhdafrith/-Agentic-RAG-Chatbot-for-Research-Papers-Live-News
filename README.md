@@ -40,7 +40,7 @@ It allows users to:
 
 ## ⚙️ Installation
 
-'''# 1️⃣ Clone the repository
+# 1️⃣ Clone the repository
 git clone https://github.com/mhdafrith/-Agentic-RAG-Chatbot-for-Research-Papers-Live-News.git
 cd -Agentic-RAG-Chatbot-for-Research-Papers-Live-News
 
@@ -57,4 +57,4 @@ pip install -r requirements.txt
 GROQ_API_KEY=your_groq_api_key_here
 
 # 5️⃣ Run the application
-streamlit run app_2.py'''
+streamlit run app_2.py
