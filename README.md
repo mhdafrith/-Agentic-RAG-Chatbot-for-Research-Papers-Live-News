@@ -40,22 +40,21 @@ It allows users to:
 
 ## ⚙️ Installation
 
-1. **Clone the repository**
-```bash
-git clone [https://github.com/mhdafrith/-Agentic-RAG-Chatbot-for-Research-Papers-Live-News].git
-cd agentic-rag-chatbot
+# 1️⃣ Clone the repository
+git clone https://github.com/mhdafrith/-Agentic-RAG-Chatbot-for-Research-Papers-Live-News.git
+cd -Agentic-RAG-Chatbot-for-Research-Papers-Live-News
 
-Create & activate a virtual environment
+# 2️⃣ Create & activate a virtual environment
 python -m venv venv
-source venv/bin/activate  # For Linux/Mac
-venv\Scripts\activate     # For Windows
+source venv/bin/activate      # For Linux/Mac
+venv\Scripts\activate         # For Windows
 
-Install dependencies
+# 3️⃣ Install dependencies
 pip install -r requirements.txt
 
-Set up environment variables
-Create a .env file in the project root:
+# 4️⃣ Set up environment variables
+# Create a `.env` file in the project root and add:
 GROQ_API_KEY=your_groq_api_key_here
 
-▶️ Running the App
+# 5️⃣ Run the application
 streamlit run app_2.py
