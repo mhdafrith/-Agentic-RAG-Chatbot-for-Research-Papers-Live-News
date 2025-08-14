@@ -1,0 +1,12 @@
+faiss-cpu
+sentence-transformers
+transformers
+pymupdf 
+tiktoken
+openai
+python-dotenv
+streamlit
+arxiv
+crew duckduckgo-search
+langchain>=0.1.17
+langchain-community>=0.0.36
